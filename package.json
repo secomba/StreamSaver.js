@@ -23,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/jimmywarting/StreamSaver.js/issues"
     },
-    "homepage": "https://github.com/jimmywarting/StreamSaver.js#readme"
+    "homepage": "https://github.com/jimmywarting/StreamSaver.js#readme",
+    "dependencies": {
+        "file-saver": "^2.0.2"
+    }
 }
